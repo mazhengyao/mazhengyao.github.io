@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>博客 on 博客尝试</title>
+    <link>https://mazhengyao.github.io/posts/</link>
+    <description>Recent content in 博客 on 博客尝试</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mazhengyao.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇博客</title>
+      <link>https://mazhengyao.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mazhengyao.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87/</guid>
+      <description>尝试 哈哈 嘿嘿 呵呵 哼哼 </description>
+    </item>
+    
+    <item>
+      <title>第二篇博客</title>
+      <link>https://mazhengyao.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mazhengyao.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87/</guid>
+      <description>尝试 哈哈 嘿嘿 呵呵 哼哼 </description>
+    </item>
+    
+  </channel>
+</rss>

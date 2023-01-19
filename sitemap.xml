@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://mazhengyao.github.io/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mazhengyao.github.io/posts/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mazhengyao.github.io/posts/%E7%AC%AC%E4%B8%80%E7%AF%87/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mazhengyao.github.io/posts/%E7%AC%AC%E4%BA%8C%E7%AF%87/</loc>
+    <lastmod>2023-01-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mazhengyao.github.io/categories/</loc>
+  </url><url>
+    <loc>https://mazhengyao.github.io/pages/</loc>
+  </url><url>
+    <loc>https://mazhengyao.github.io/tags/</loc>
+  </url><url>
+    <loc>https://mazhengyao.github.io/about/</loc>
+  </url>
+</urlset>
